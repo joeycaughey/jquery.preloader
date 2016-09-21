@@ -30,20 +30,7 @@ var Preloader = {
     images_loaded: 0,
     preloader_loaded_percentage: 0,
     preload_images: [
-        "_assets/images/beercan-ballsfalls.png",
-        "_assets/images/beercan-twentymile.png",
-        "_assets/images/beercans.png",
-        "_assets/images/bknd-findus.jpg",
-        "_assets/images/bknd-home.jpg",
-        "_assets/images/bknd-locations.jpg",
-        "_assets/images/bknd-ourbeer-slideover-ballsfalls.jpg",
-        "_assets/images/bknd-ourbeer-slideover-twentymile.jpg",
-        "_assets/images/bknd-ourbeer.jpg",
-        "_assets/images/bknd-ourbrewery.jpg",
-        "_assets/images/bknd-ourhome.jpg",
-        "_assets/images/bknd-ourpeople.jpg",
-        "_assets/images/bknd-ourregion.jpg",
-        "_assets/images/bknd-ourvision.png"
+        // Your images here
     ],
     init: function() {
         var self = this;
